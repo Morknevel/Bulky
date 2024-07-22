@@ -4713,11 +4713,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\99555\\RiderProjects\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+      "projectUniqueName": "C:\\Users\\99555\\Desktop\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
       "projectName": "BulkyWeb",
-      "projectPath": "C:\\Users\\99555\\RiderProjects\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+      "projectPath": "C:\\Users\\99555\\Desktop\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
       "packagesPath": "C:\\Users\\99555\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\99555\\RiderProjects\\Bulky\\BulkyWeb\\obj\\",
+      "outputPath": "C:\\Users\\99555\\Desktop\\Bulky\\BulkyWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\99555\\AppData\\Roaming\\NuGet\\NuGet.Config",
