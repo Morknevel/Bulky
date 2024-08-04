@@ -61,7 +61,7 @@ public class CategoryController : Controller
         {
             _db.Categories.Update(obj);
             _db.SaveChanges();
-            TempData["success"] = "Category edited successfully";
+            TempData["success"] = "Category updated successfully";
             return RedirectToAction("Index");
         }
 
