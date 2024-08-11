@@ -4,11 +4,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace BulkyWebRazor_Temp.Pages.Categories;
+[BindProperties]
 
 public class Create : PageModel
 {
     private readonly ApplicationDbContext _db;
-    [BindProperty]
     public Category Category { get; set; }
 
     public Create(ApplicationDbContext db)
@@ -23,6 +23,7 @@ public class Create : PageModel
     {
         _db.Categories.Add(Category);
         _db.SaveChanges();
+        TempData["success"] = "Category updated successfully";
         return RedirectToPage("Index");
     }
 
