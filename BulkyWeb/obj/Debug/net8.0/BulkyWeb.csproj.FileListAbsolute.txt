@@ -451,3 +451,9 @@ C:\Users\99555\Desktop\Bulky\BulkyWeb\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis
 C:\Users\99555\Desktop\Bulky\BulkyWeb\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\99555\Desktop\Bulky\BulkyWeb\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\99555\Desktop\Bulky\BulkyWeb\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\99555\Desktop\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.dll
+C:\Users\99555\Desktop\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.dll
+C:\Users\99555\Desktop\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.pdb
+C:\Users\99555\Desktop\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.pdb
+C:\Users\99555\Desktop\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.dll
+C:\Users\99555\Desktop\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.pdb

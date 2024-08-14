@@ -2809,6 +2809,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Bulky.Models": "1.0.0",
+          "Bulky.Utility": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.0-preview.6.24327.4",
           "Microsoft.EntityFrameworkCore.Relational": "9.0.0-preview.6.24327.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0-preview.6.24327.4",
@@ -2829,6 +2830,16 @@
         },
         "runtime": {
           "bin/placeholder/Bulky.Models.dll": {}
+        }
+      },
+      "Bulky.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Bulky.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bulky.Utility.dll": {}
         }
       }
     }
@@ -7785,6 +7796,11 @@
       "type": "project",
       "path": "../Bulky.Models/Bulky.Models.csproj",
       "msbuildProject": "../Bulky.Models/Bulky.Models.csproj"
+    },
+    "Bulky.Utility/1.0.0": {
+      "type": "project",
+      "path": "../Bulky.Utility/Bulky.Utility.csproj",
+      "msbuildProject": "../Bulky.Utility/Bulky.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7878,7 +7894,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
